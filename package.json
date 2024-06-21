@@ -1,6 +1,7 @@
 {
   "name": "url-shortener-service",
   "version": "1.0.0",
+  "description": "A url shortener service",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,7 +9,6 @@
   "keywords": [],
   "author": "Mariana Bastos",
   "license": "ISC",
-  "description": "A url shortener service",
   "dependencies": {
     "fastify": "^4.28.0"
   },
